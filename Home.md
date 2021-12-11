@@ -1,7 +1,7 @@
 Hola!! 
 
 Pasos:
-1. Clona el repositorio en donde desees.
+1. Clona el repositorio en donde desees o hacer un fetch total y en lo posible forzado.
 2. En el branch master, pasa el codigo a la ESP32.
 3. La primera vez la placa arrancará en modo AP por lo que podrás conectarte a ella por medio de WiFi.
  * Encontrarás la red AP del ESP32 como AP-IOT y la contraseña será iotserver.
